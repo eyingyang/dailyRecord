@@ -18,6 +18,22 @@ package eying.leetcode;
  */
 //Array Implement
 
+/**
+ *  solution :
+ *  1. 长度要一致
+ *  2.遇到‘.’，则跳过； 其它的进行比较
+ *
+ *  2019年2月13日 11:04:59
+ *
+ *
+ *  this method disadvantage:
+ *  1.when search,  the efficient is very low.
+ *
+ *  next step:
+ *  1. use the prefix tree solve the problem
+ *
+ */
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
