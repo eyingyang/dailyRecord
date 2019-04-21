@@ -1,6 +1,6 @@
 <!-- MarkdownTOC -->
 
-- [IO流学习总结](#io流学习总结)
+- [IO流学习总结test](#io流学习总结)
   - [一　Java IO，硬骨头也能变软](#一-java-io，硬骨头也能变软)
   - [二　java IO体系的学习总结](#二-java-io体系的学习总结)
   - [三　Java IO面试题](#三-java-io面试题)
@@ -56,9 +56,8 @@
 
 1.  **NIO简介**:
 
-    Java NIO 是 java 1.4, 之后新出的一套IO接口NIO中的N可以理解为Non-blocking，不单纯是New。
 
-2.  **NIO的特性/NIO与IO区别:**
+
     -   1)IO是面向流的，NIO是面向缓冲区的；
     -   2)IO流是阻塞的，NIO流是不阻塞的;
     -   3)NIO有选择器，而IO没有。
